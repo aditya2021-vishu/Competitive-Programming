@@ -1,4 +1,5 @@
 // https://codeforces.com/contest/690/problem/C2
+
 #include<bits/stdc++.h>
 using namespace std;
 const int N = 1e5+10;
